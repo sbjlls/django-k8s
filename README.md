@@ -9,7 +9,7 @@ explains some of the theory behind the steps that follow.
 
 1. Fetch the source code for this example.
    ````
-   git clone https://github.com/hnarayanan/kubernetes-django.git
+   git clone https://github.com/sbjlls/django-k8s.git
    ````
 
 2. [Install Docker][docker-install].
