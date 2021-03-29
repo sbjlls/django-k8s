@@ -8,4 +8,5 @@ resources:
 - ./database/replication-controller.yaml
 - ./database/service.yaml 
 - ./app/replication-controller-orange.yaml
+- ./app/replication-controller-maroon.yaml
 - ./app/service.yaml
